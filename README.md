@@ -1,1 +1,2 @@
-# mycode
+# sentiment-tweet-analysis
+sentiment tweet analysis is a machine learing project which ueses the Natural learning  processing to analysis and predict tweet's emotion is it positive or negative.The objective of this project is to detect hate speech in tweets.Formally,given a training and testing sample of tweets and labels,where label'1' denotes the tweet is racist/sexist or negative and label'0' denotes the tweet is positive. 
